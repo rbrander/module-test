@@ -1,0 +1,16 @@
+{
+  "name": "module-test",
+  "version": "1.0.0",
+  "description": "A simple example of using export and import as ES modules",
+  "main": "server.js",
+  "engines" : {
+    "node" : ">=8.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Brander",
+  "license": "ISC",
+  "dependencies": {}
+}
